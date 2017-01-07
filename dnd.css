@@ -34,6 +34,6 @@
 }
 
 .status-picker .popout-menu-item:nth-child(5) .helper::after{
-	content: "No one likes you so you decide to turn invisible because people don't notices you anyway." !important;
+	content: "No one likes you so you decide to turn invisible because people don't notice you anyway." !important;
 	font-size: 12px;
 }
